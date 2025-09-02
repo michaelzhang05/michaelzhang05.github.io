@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuxuan Zhang's Personal Webiste!"
+title: #"Welcome to Yuxuan Zhang's Personal Webiste!"
 author_profile: true
 redirect_from: 
   - /about/
