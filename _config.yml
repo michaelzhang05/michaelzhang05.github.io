@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yuxuan Zhang's Academic Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Yuxuan Zhang"
 description              : &description "Second Year PhD Student at Texas A&M University"
