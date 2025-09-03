@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
+<!-- About Me
+====== -->
 Howdy! My name is Yuxuan(Michael) Zhang. I am currently a second year Phd Student at Texas A&M University, advised by Dr. Guofei Gu. My research interest mainly focus on AI Security, LLM for Cybersecurity, and Network Security. Before joining A&M and proudly became an Aggie, I received my Master's degree at University of Pittsburgh, advised by Dr. Longfei Shangguan. I received my Bachelor's degree at Huazhong University of Science and Technology.
 
 
