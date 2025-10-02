@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuxuan Zhang",
+    "email": "yuz516@tamu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://michaelzhang05.github.io",
+    "summary": "Second-year Ph.D. student at Texas A&M University, advised by Prof. Guofei Gu.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "Texas A&M University, Peterson Building, 3112, College Station, TX 77843",
+      "postalCode": "77843",
+      "city": "College Station",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AH8HC4yDBxkVn0z5ah2NAC1ZVQ6sHs_-sCD10G01Q07QmLwOddH4Qz7CVq9oba6ggNRf5NL-WDBgdbPGtnEIQMs6k_H0&user=NaPSMk8AAAAJ"
       },
       {
         "network": "ORCID",
@@ -26,36 +26,36 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/michaelzhang05"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Texas A&M University",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024",
+      "endDate": "current",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Pittsburgh",
+      "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Huazhong University of Science and Technology",
+      "area": "B.S. in Computer Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }

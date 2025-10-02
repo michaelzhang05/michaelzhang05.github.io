@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-08-28-PromptSleuth
 excerpt: ''
 date: 2025-08-28
-venue: ''
+venue: 'archive'
 paperurl: 'https://arxiv.org/abs/2508.20890'
 citation: 'Wang, Mengxiao, Yuxuan Zhang, and Guofei Gu. "PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance." arXiv preprint arXiv:2508.20890 (2025).'
 ---
