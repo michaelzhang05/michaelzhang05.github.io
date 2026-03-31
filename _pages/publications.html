@@ -11,11 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publication_order = "/publication/2025-08-28-PromptSleuth|/publication/2026-01-02-NetInspector|/publication/2026-01-04-Small-Planes-Big-Models|/publication/2026-01-03-TraceScope|/publication/2025-05-12-Jumbo|/publication/2024-05-01-drive-by-sensing" | split: "|" %}
+{% assign publication_order = "/publication/2025-08-28-PromptSleuth|/publication/2026-01-02-NetInspector|/publication/2026-03-31-openclaw-taxonomy|/publication/2026-01-03-TraceScope|/publication/2026-01-04-Small-Planes-Big-Models|/publication/2025-05-12-Jumbo|/publication/2024-05-01-drive-by-sensing" | split: "|" %}
 {% for publication_permalink in publication_order %}
   {% assign post = site.publications | where: "permalink", publication_permalink | first %}
   {% if post %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
